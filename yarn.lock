@@ -250,10 +250,10 @@
   resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.6.tgz#35dd26987228b39ef2316db3b1245c42eb19e324"
   integrity sha512-JJCXydOFWMDpCP4q13iEplA503MQO3xLoZiKum+955ZCtHINWnx26CUxVxxFQu/uLb4LW3ge15ZpzIkXKkJ8oQ==
 
-"@hummingbot/hbui@^1.8.18":
-  version "1.8.18"
-  resolved "https://registry.yarnpkg.com/@hummingbot/hbui/-/hbui-1.8.18.tgz#02fc02d457ef1a75209803d6be614fa7bdd7bb53"
-  integrity sha512-bk1sZKyB2IXO2/9zludV5mt79UirdDCDYjg0YR0mfSqlmqS5OuX7voL/IK7g2+AMMAasTmgT4vMgByP6il007Q==
+"@hummingbot/hbui@^1.8.20":
+  version "1.8.20"
+  resolved "https://registry.yarnpkg.com/@hummingbot/hbui/-/hbui-1.8.20.tgz#6a16b407297135ab75aa22f3be164a000d13d9c8"
+  integrity sha512-CRH3oJ2qPbg28GUDz/+3zbRX1yulv1InpmPZ9vXUeiKXx4c8+zPUu1pG/mH80mlmvEfBsZgxquySRYnUi34xTA==
   dependencies:
     "@babel/core" "^7.13.8"
     "@headlessui/react" "^1.5.0"
